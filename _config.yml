@@ -18,14 +18,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Demo CB Repository
+title: Critical Hope and Black Life at Occidental College
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Learning technologies for the static web
+tagline: Documenting the history of the Black community at Occidental College from 1965 to present
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Testing for configuration"
+description: histories of protest and community
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: colleges and universities; student activism; Los Angeles history
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: aaliyah808
 
